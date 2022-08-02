@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#wrap .section:nth-child(1){background:url(./image/portfolio.jpg) 0/cover;}
+#wrap .section:nth-child(2){background:url(./image/profile.jpg) 0/cover;}
+#wrap .section:nth-child(3){background:url(./image/index.jpg) 0/cover;}
+#wrap .section:nth-child(4) .slide:nth-child(1){background: url(./image/todays\ main.jpg) 0/cover;}
+#wrap .section:nth-child(4) .slide:nth-child(2){background: url(./image/todays\ mobile.jpg) 0/cover;}
+#wrap .section:nth-child(5) .slide:nth-child(1){background: url(./image/primera\ main.jpg) 0/cover;}
+#wrap .section:nth-child(5) .slide:nth-child(2){background: url(./image/primera\ event.jpg) 0/cover;}
+#wrap .section:nth-child(6) .slide:nth-child(1){background: url(./image/greek\ mian.jpg) 0/cover;}
+#wrap .section:nth-child(6) .slide:nth-child(2){background: url(./image/greek\ event.jpg) 0/cover;}
+#wrap .section:nth-child(7) .slide:nth-child(1){background: url(./image/mes\ main.jpg) 0/cover;}
+#wrap .section:nth-child(7) .slide:nth-child(2){background: url(./image/mes\ event.jpg) 0/cover;}
+#wrap .section:nth-child(8){background:url(./image/thank.jpg) 0/cover;}
